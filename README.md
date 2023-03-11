@@ -1,3 +1,12 @@
+This is a React web app that allows users to view recipes of various dishes and allows them to watch Youtube video for the same.
+
+Font End => ReactJS.
+
+Back End => NodeJS and ExpressJS.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
